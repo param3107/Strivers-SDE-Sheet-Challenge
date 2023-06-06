@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-using namespace std;
 
 vector<vector<long long int>> printPascal(int n){
     vector<vector<long long int>> PT(n);
